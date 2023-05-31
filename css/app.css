@@ -20,6 +20,10 @@
 
 /*! ------------- 2- CAROUSEL --------------- */
 
+.carousel-item {
+  max-height: calc(100vh - 88px);
+}
+
 /*! ------------ 3- ABOUT SECTION ----------- */
 
 /*! ------------- 4- INSTRUCTORS -------------*/
